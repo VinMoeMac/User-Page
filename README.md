@@ -1,2 +1,1 @@
-# User-Page
-Introduction to Vincent McCloskey
+# Vincent McCloskey's User Page
