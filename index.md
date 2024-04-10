@@ -39,7 +39,7 @@ This was made on [GitHub](https://github.com)
 
 ### Section Links
 
-Jump to [Introduction](https://github.com/VinMoeMac/User-Page/edit/main/index.md#introduction)
+Jump to [Introduction](#introduction)
 
 ### Relative Links
 
