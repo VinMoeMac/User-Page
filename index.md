@@ -2,13 +2,13 @@
 
 ## Introduction
 
-My Name is Vincent McCloskey I am an aspiring Software Engineer and programmer.
+My Name is Vincent McCloskey I am an aspiring Software Engineer and programmer at **UCSD**.
 
-![Profile Picture](profile_picture.jpg)
+![Profile Picture](https://today.ucsd.edu/news_uploads/_social/img-primary-Geisel-UCSanDiego-ErikJepsen-090922.jpg)
 
 ## About Me
 
-I've been coding for [X years/months], and I'm constantly amazed by the endless possibilities that technology offers. In addition to programming, I enjoy [hiking in the mountains](#hiking) and experimenting with new recipes in the kitchen.
+I've been coding for 4 years now, and I'm constantly *amazed* by the endless possibilities that technology offers. 
 
 ### Core Skills
 
@@ -24,38 +24,26 @@ I've been coding for [X years/months], and I'm constantly amazed by the endless 
   - Numpy
   - Pandas
 
-## Markdown Constructs
+## Checkout my Markdown *SKILLS*
 
-### Headings
+### Quotes:
 
-#### Styling Text
+> This is a quote
 
-*Italic Text*
+```
+This is quoted code
+```
 
-**Bold Text**
-
-### Quoting Text
-
-> "The only way to do great work is to love what you do." - Steve Jobs
-
-### Quoting Code
-
-
-### External Links
-
-[GitHub](https://github.com)
+### External links
+This was made on [GitHub](https://github.com)
 
 ### Section Links
 
-Jump to [Introduction](#introduction)
+Jump to [Introduction](https://github.com/VinMoeMac/User-Page/edit/main/index.md#introduction)
 
 ### Relative Links
 
 Link to [README.md](README.md)
-
-### Pictures
-
-![Mountain View](mountain_view.jpg)
 
 ### Ordered and Unordered Lists
 
@@ -71,13 +59,8 @@ Link to [README.md](README.md)
 
 ### Task Lists
 
-- [x] Learn Markdown
-- [ ] Build a website
-- [ ] Contribute to open source
+- [x] Lab 1
+- [ ] lab 2
+- [ ] lab 3
 
-## Hobbies
-
-### Hiking
-
-I love spending my weekends hiking in the mountains. The fresh air and breathtaking views are unbeatable.
 
